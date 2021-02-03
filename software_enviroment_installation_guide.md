@@ -48,7 +48,7 @@ sudo apt-get upgrade -y
 ```
 sau đó
 ```sh
-sudo apt-get install libportaudio2 libatlas-base-dev libsdl2-mixer-2.0-0 libpq-dev libpq-dev libssl-dev openssl libffi-dev zlib1g-dev  libportmidi-dev libswscale-dev libavformat-dev libavcodec-dev libfreetype6-dev libasound2-dev -y
+sudo apt-get install libatlas-base-dev libsdl2-mixer-2.0-0 libpq-dev libpq-dev libssl-dev openssl libffi-dev zlib1g-dev  libportmidi-dev libswscale-dev libavformat-dev libavcodec-dev libfreetype6-dev libasound2-dev -y
 
 ```
 sau đó
@@ -59,6 +59,26 @@ sudo apt-get install libncurses5-dev libncursesw5-dev libreadline6-dev libdb5.3-
 sau đó
 ```sh
 sudo apt-get install libportaudio-dev libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsmpeg-dev libportmidi-dev libswscale-dev libavformat-dev libavcodec-dev libfreetype6-dev -y
+```
+sau đó
+```sh
+git clone -b alsapatch https://github.com/gglockner/portaudio
+```
+sau đó
+```sh
+cd portaudio
+```
+sau đó
+```sh
+./configure && make
+```
+sau đó
+```sh
+sudo make install
+```
+sau đó
+```sh
+sudo ldconfig
 ```
 2.2. Cài đặt các thư viện cho Python
 
