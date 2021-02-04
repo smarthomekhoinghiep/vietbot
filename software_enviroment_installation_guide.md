@@ -152,7 +152,7 @@ gỡ bỏ pulseaudio bằng lệnh (Nếu không cài đặt pulseaudio trước
 ```sh
 sudo apt-get purge pulseaudio -y
 ```
-Sau đó khởi động lại (Nếu không cài đặt pulseaudio trước đây thì bỏ qua bước này
+Sau đó khởi động lại (Nếu không cài đặt pulseaudio trước đây thì bỏ qua bước này)
 
 ```sh
 sudo reboot
