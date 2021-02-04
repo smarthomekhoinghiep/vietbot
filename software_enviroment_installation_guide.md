@@ -244,8 +244,40 @@ Chạy lệnh sau
 ```sh
 sudo usermod -aG root account_name
 ```
-4.3.2. Reboot lại Pi
+
+### STEP5. Cấu hình thời gian, tối ưu cho Pi
+
+4.1. Chạy config
 Chạy lệnh sau
 ```sh
-sudo reboot
+sudo 
 ```
+4.2. Cài đặt thời gian với múi giờ VN
+
+Chọn mục số 5 Localisation Options, Select rồi Enter
+
+Chọn L2 Time Zone
+
+Chọn Asia
+
+Chọn Ho Chi Minh City, OK rồi Enter
+
+4.3. Cài đặt Pi khởi động với Command line để tiết kiệm bộ nhớ
+
+Chọn mục System Options, Select rồi Enter
+
+Chọn S5 Boot/ Auto Login, Select rồi Enter
+
+Chọn B2, OK
+
+4.3. Giảm bộ nhớ RAM dùng cho đồ họa
+
+Chọn mục Performance Options, Select rồi Enter
+
+Chọn P2 GPU Memory, Select rồi Enter
+
+Chọn 16, OK
+
+4.4. Khởi động lại Pi
+
+Khi thoát khỏi Raspi Cofig, chọn Yes để khởi động lại
