@@ -1,3 +1,4 @@
+### ĐÂY LÀ HƯỚNG DẪN CÀI ĐẶT PHẦN HỆ ĐIỀU HÀNH, THƯ VIỆN, DRIVER CHO PI ZERO WIRLESS, MODUN 2 MIC HAT, 4 MIC ARRAY HOẶC MIC USB
 
 ### STEP0. Cài đặt nhanh
 Các bạn không muốn trải nghiệm quá trình cài đặt, có thể thực hiện theo các bước sau:
@@ -17,7 +18,7 @@ Tối ưu cho phần cứng Pi Zero Wireless nên Vietbot chỉ cần bản OS B
 
 Download đúng phiên bản sau tại địa chỉ:
 
-https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2020-08-24/2020-08-20-raspios-buster-armhf-lite.zip
+https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-01-12/2021-01-11-raspios-buster-armhf-lite.zip
 
 1.2. Flash vào thẻ nhớ
 Sử dụng tool của Raspberry hoặc Etcher
