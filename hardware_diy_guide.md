@@ -72,7 +72,7 @@ Gỡ theo các bước sau
 ![HÀN DÂY LOA VỚI JACK MINI JST](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H3_han_loa.jpg)
 
 
-4.4. Luồn dây loa qua lỗ và hàn dây
+4.4. Luồn dây loa qua lỗ và hàn dây như hình
 
 4.4.1. Lắp đặt mặt nhôm trở lại đế của Gh Mini
 
@@ -80,7 +80,9 @@ Gỡ theo các bước sau
 
 4.4.3. Hàn dây nguồn với đầu Micro USB gập vuông như hình
 
-![LUỒN DÂY LOA QUA LỖ, HÀN DÂY NGUỒN VỚI MICRO USB ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H4_luon_day.jpg)
+![LUỒN DÂY LOA QUA LỖ, HÀN DÂY NGUỒN VỚI MICRO USB ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H41_luon_day.jpg)
+
+![LUỒN DÂY LOA QUA LỖ, HÀN DÂY NGUỒN VỚI MICRO USB ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H42_luon_day.jpg)
 
 4.5. Hàn dây 3.5mm với 1 đầu Jack Mini JST2.0 như hình
 
@@ -90,7 +92,9 @@ Gỡ theo các bước sau
 
 5.1. Dùng băng dính 2 mặt, dán Pi Zero W lên mặt nhôm như hình
 
-![GẮN PI ZERO W ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H6_Lap_Pi.jpg)
+![GẮN PI ZERO W ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H61_Lap_Pi.jpg)
+
+![GẮN PI ZERO W ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H62_Lap_Pi.jpg)
 
 5.2. Gắn Modun 2 Mic Hat như hình, có 2 tùy chọn
 
