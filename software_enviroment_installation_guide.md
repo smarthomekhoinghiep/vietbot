@@ -1,4 +1,15 @@
 
+### STEP0. Cài đặt nhanh
+Các bạn không muốn trải nghiệm quá trình cài đặt, có thể thực hiện theo các bước sau:
+0.1. Download bộ Image đã cài đặt sẵn tất cả các bước theo link sau:
+git clone https://github.com/phanmemkhoinghiep/vietbot_sourcecode.git
+
+0.2. Sử dụng Win32Img để ghi vào thẻ SD 32GB
+
+0.3. Khai báo file wpa_supplicant.conf như hướng dẫn tại https://github.com/phanmemkhoinghiep/vietbot/blob/main/software_enviroment_installation_guide.md
+
+0.4. Cắm thẻ nhớ vào Pi Zero W và boot lên
+
 ### STEP1. Cài đặt hệ điều hành Raspbian
 
 1.1. Download Raspberry Pi OS
