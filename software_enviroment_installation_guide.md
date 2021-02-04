@@ -152,6 +152,7 @@ khởi động lại
 sudo reboot
 
 ```
+Sau khi khởi động lại, đăng nhập lại vào console
 
 sau đó xóa file asound.conf
 
