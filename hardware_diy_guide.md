@@ -108,27 +108,35 @@ Gỡ theo các bước sau
 
 ### STEP6. Khoan vỏ
 
-6.1. Dùng cưa lọng, cưa bỏ phần mặt trên của GH Mini, sao cho 2 Mic Array Left, Right lộ ra ngoài
+6.1. Sử dụng dao trổ, gỡ lớp vải ecang ra khỏi nắp GH Mini như hình
+
+![GỠ VẢI ECANG TẠI MÉP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H51_Lam_nap.jpgg)
+
+![LỚP VẢI ECANG ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H52_Lam_nap.jpgg)
+
+6.2. Dùng cưa lọng, cưa bỏ phần mặt trên của GH Mini, sao cho 2 Mic Array Left, Right lộ ra ngoài
+
+![SAU KHI CƯA XONG ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H53_Lam_nap.jpgg)
+
+6.3. Dán lại lớp vải Ecang bằng súng bắn keo nhiệt, dán 2 điểm ở hai phía đối diện để tạo căng, sau đó dán lần lượt, như hình
+
+![DÁN HAI ĐIỂM ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H54_Lam_nap.jpgg)
+
+![MẶT DƯỚI SAU KHI DÁN XONG ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H55_Lam_nap.jpgg)
+
+![MẶT TRÊN SAU KHI DÁN XONG ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H56_Lam_nap.jpgg)
 
 6.2. Cắt bỏ đoạn cút nhựa lấy kích thước khoảng 2cm
 
-6.3. Hàn cút nhựa với nắp GH Mini như hình
+6.3. Hàn cút nhựa với nắp GH Mini bằng súng bắn keo nhiệt
 
-![CẬN CẢNH NẮP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H91_Lam_nap.jpg)
+6.4. Dán Decan vào loa, như hình
 
-![CẬN CẢNH NẮP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H92_Lam_nap.jpg)
+![CẬN CẢNH NẮP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H57_Lam_nap.jpg)
 
-![CẬN CẢNH NẮP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H93_Lam_nap.jpg)
 
-### STEP7. Lắp vỏ
+### STEP7. Lắp vỏ, cắm nguồn
 
-Lắp vỏ theo chiều thẳng đứng
+Lắp vỏ theo chiều thẳng đứng, cắm nguồn như hình
 
-7.1. Với trường hợp dùng jack JST 2.0 như hình
-
-![ĐÓNG NẮP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H121_dong_nap.jpg)
-
-7.1. Với trường hợp dùng jack 3.5mm như hình
-
-![ĐÓMNG NẮP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H122_dong_nap.jpg)
-
+![ĐÓNG NẮP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/imageH8_Dong_nap.jpg)
