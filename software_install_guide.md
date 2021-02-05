@@ -10,7 +10,8 @@ git clone https://github.com/phanmemkhoinghiep/vietbot_sourcecode.git
 1.2. Download toàn bộ Image
 
 1.2.1. Download toàn bộ Image về theo link sau:
-git clone https://github.com/phanmemkhoinghiep/vietbot_sourcecode.git
+
+.............
 
 1.2.2. Sử dụng Win32Img để ghi vào thẻ
 
