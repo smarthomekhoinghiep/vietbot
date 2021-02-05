@@ -4,7 +4,7 @@
 Các bạn không muốn trải nghiệm quá trình cài đặt, có thể thực hiện theo các bước sau:
 0.1. Download bộ Image đã cài đặt sẵn tất cả các bước theo link sau:
 
-git clone https://github.com/phanmemkhoinghiep/vietbot_sourcecode.git
+https://1drv.ms/u/s!AvDx_rYRQh5Lo9RGY2XsZh78bhHa3g?e=80TKfE
 
 0.2. Sử dụng Win32Img để ghi vào thẻ SD 32GB
 
