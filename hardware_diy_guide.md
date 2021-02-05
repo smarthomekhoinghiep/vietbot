@@ -139,4 +139,4 @@ Gỡ theo các bước sau
 
 Lắp vỏ theo chiều thẳng đứng, cắm nguồn như hình
 
-![ĐÓNG NẮP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/imageH8_Dong_nap.jpg)
+![ĐÓNG NẮP ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H8_Dong_nap.jpg)
