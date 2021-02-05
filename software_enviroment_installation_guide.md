@@ -74,6 +74,10 @@ sudo apt-get install libportaudio-dev libsdl1.2-dev libsdl-image1.2-dev libsdl-m
 ```
 sau đó
 ```sh
+sudo apt-get install git -y
+```
+sau đó
+```sh
 git clone -b alsapatch https://github.com/gglockner/portaudio
 ```
 sau đó
@@ -100,7 +104,7 @@ sudo apt-get install python3-pip python3-setuptools python3-psutil python3-bottl
 ```
 sau đó
 ```sh
-sudo apt-get install vlc git -y
+sudo apt-get install vlc -y
 ```
 ### STEP3. Cài đặt các gói Python
 
