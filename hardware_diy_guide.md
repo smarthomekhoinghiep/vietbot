@@ -9,11 +9,17 @@ Hướng dẫn độ Bot từ loa GH Minh
 
 1.3. Modun 2 Mic Hat: 01 cái
 
-1.4.. Đầu Jack Mini JST 2.0 đực: 01 cái
+1.4. Đầu Jack Mini JST 2.0 đực: 01 cái
+
+(Trong trường hợp không có có thể thay bằng dây jump cắm mạch đực: 01 sợi)
 
 1.5. Đầu Jack Mini JST 2.0 cái: 01 cái
 
-1.6. Dây jump: 02 sợi
+(Trong trường hợp không có có thể thay bằng dây jump cắm mạch cái: 01 sợi)
+
+1.6. Dây mạng CAT 6: 2 sợi 10cm
+
+(Có thể thay bằng dây jump không cần đầu) 
 
 1.7. Cáp 3.5mm loại gập 90 độ khoảng 10cm: 01 cái
 
@@ -44,19 +50,45 @@ Hướng dẫn độ Bot từ loa GH Minh
 
 2.11. Dao trổ: 01 bộ
 
+2.12. Máy sấy tóc: 01 cái
+
 ### STEP3. Gỡ GH Mini
 
 Gỡ theo các bước sau
 
-3.1. Dùng dao trổ nậy lớp keo dán dưới đáy GH Mini
+3.1. lấy máy sấy tóc bật nấc nóng và dí vào phần màu cam 1 lúc, chỗ viền sát mép để keo chảy ra
 
-3.2. Dùng tô vít đa năng để tháo ốc
+3.2. Dùng dao trổ nậy lớp keo dán dưới đáy GH Mini
 
-3.3. Tiếp tục dùng tô vít đa năng gỡ bỏ lần lượt các thành phần
+3.3. Dùng tô vít đa năng để tháo ốc
+
+3.4. Tiếp tục dùng tô vít đa năng gỡ bỏ lần lượt các thành phần
 
 ### STEP4. Hàn dây
 
-4.1. Hàn dây jump với jack nguồn như hình
+4.1. Gỡ modun nguồn của GH Mini ở phần đáy
+
+!VỊ TRÍ MẠCH NGUỒN](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H111_Hannguon.jpg)
+
+4.2. Lật phần lẫy đen giữ cáp của Mạch nguồn
+
+!VỊ TRÍ LẪY](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H11_Hannguon.jpg)
+
+!LẪY ĐÃ BẬT](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H12_Hannguon.jpg)
+
+!PINOUT CỦA CHÂN MICRO USB](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H10_Hannguon.jpg)
+
+Cắm jack nguồn Micro USB vào Mạch nguồn, sử dụng đồng hồ vạn năng để đo thông mạch từ 2 đầu sợi cáp với 5 chân thực tế để  xác định chính xác vị trí Pinout thực tế
+
+!ĐỒNG HỒ THÔNG MẠCH](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H131_Hannguon.jpg)
+
+!PINOUT THỰC TẾ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H13_Hannguon.jpg)
+
+Sau khi đã xác định chân thì bắt đầu hàn 2 chân nguồn từ mạch nguồn ra
+
+!HÀN CHÂN NGUỒN](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H15_Hannguon.jpg)
+
+Sau khi hàn chân xong thì phủ keo lên như hình
 
 ![HÀN DÂY JACK NGUỒN](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H1_han_nguon.jpg)
 
