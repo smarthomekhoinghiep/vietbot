@@ -84,7 +84,7 @@ Gỡ theo các bước sau
 
 Cắm jack nguồn Micro USB vào Mạch nguồn, sử dụng đồng hồ vạn năng để đo thông mạch từ 2 đầu sợi cáp với 5 chân thực tế để  xác định chính xác vị trí Pinout thực tế
 
-!ĐỒNG HỒ THÔNG MẠCH](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H131_Hannguon.jpg)
+![ĐỒNG HỒ THÔNG MẠCH](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H131_Hannguon.jpg)
 
 ![PINOUT THỰC TẾ](https://github.com/phanmemkhoinghiep/vietbot/blob/main/image/H13_Hannguon.jpg)
 
