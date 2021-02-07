@@ -1,19 +1,11 @@
 
 ### STEP1. Download code về Pi 
 
-Download Code về Pi theo 1 trong 2 cách sau:
-
-1.1. Download code về Pi bằng git
+Download Code về Pi theo cách sau:
 Trên console của Pi, sử dụng lệnh sau
+```sh
 git clone https://github.com/phanmemkhoinghiep/vietbot_sourcecode.git
-
-1.2. Download toàn bộ Image
-
-1.2.1. Download toàn bộ Image về theo link sau:
-
-.............
-
-1.2.2. Sử dụng Win32Img để ghi vào thẻ
+```
 
 1.2.3. Khai báo file wpa_supplicant.conf như hướng dẫn tại https://github.com/phanmemkhoinghiep/vietbot/blob/main/software_enviroment_installation_guide.md
 
