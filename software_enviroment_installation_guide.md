@@ -151,7 +151,7 @@ cd seeed-voicecard
 ```
 sau đó
 ```sh
-sudo ./install.sh
+sudo ./install.sh --compact-kernel
 ```
 chờ cài đặt kết thúc
 
