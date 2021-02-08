@@ -272,7 +272,7 @@ sudo usermod -aG root account_name
 4.1. Chạy config
 Chạy lệnh sau
 ```sh
-sudo 
+sudo raspi-config
 ```
 4.2. Cài đặt thời gian với múi giờ VN
 
