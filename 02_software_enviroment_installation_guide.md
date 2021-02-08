@@ -187,6 +187,19 @@ alsamixer
 ```
 bấm F6 để chọn sound card seed, sau đó bấm F5, dùng phím lên trên bàn phím để kéo hết các giá trị lên Max, phím trái, phải để chọn các giá trị Stereo tại các mục tương ứng
 
+Chạy config mặc định chọn Card Sound
+Chạy lệnh sau
+```sh
+sudo raspi-config
+```
+Chọn mục System Options, Select rồi Enter
+
+Chọn S2 Audio, Select rồi Enter
+
+Chọn 1, OK
+
+Thoát khỏi Raspi Config
+
 
 4.2. Cài đặt cho Mic USB và Loa 
 
@@ -302,4 +315,4 @@ Chọn 16, OK
 
 4.4. Khởi động lại Pi
 
-Khi thoát khỏi Raspi Cofig, chọn Yes để khởi động lại
+Khi thoát khỏi Raspi Config, chọn Yes để khởi động lại
