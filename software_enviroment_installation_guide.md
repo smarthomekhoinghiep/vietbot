@@ -2,9 +2,11 @@
 
 ### STEP0. Cài đặt nhanh
 Các bạn không muốn trải nghiệm quá trình cài đặt, có thể thực hiện theo các bước sau:
-0.1. Download bộ Image đã cài đặt sẵn tất cả các bước theo link sau:
+0.1. Download bộ Image đã cài đặt sẵn tất cả các bước theo một trong hai link sau:
 
-https://1drv.ms/u/s!AvDx_rYRQh5Lo9RGY2XsZh78bhHa3g?e=80TKfE
+Bản cho thẻ 32G trở lên: https://1drv.ms/u/s!AvDx_rYRQh5Lo9RGY2XsZh78bhHa3g?e=80TKfE
+
+Bản cho thẻ 16G: https://drive.google.com/file/d/1rzgcjCXfHPUGC1QYjw8HVeKIu37dPPD0/view?usp=sharing
 
 0.2. Sử dụng Win32Img để ghi vào thẻ SD 32GB
 
