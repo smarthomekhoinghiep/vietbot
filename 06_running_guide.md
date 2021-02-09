@@ -18,36 +18,32 @@ python3 main_process.py
 Sử dụng lần lượt các lệnh sau
 
 ```sh
-cd ~
-mkdir .config
-mkdir .config/systemd
-mkdir .config/systemd/user
-nano .config/systemd/user/bot.service
+sudo apt-get install supervisor -y
 
 ```
+
+sau khi cài đặt xong supervisor, gõ lệnh sau:
+
+```sh
+sudo nano /etc/supervisor/conf.d/bot.conf
+
+```
+
 Tại cửa sổ nano, gõ các dòng sau
 
 ```sh
-[Unit]
-Description=Bot
-After=syslog.target network.target
-[Service]
-Type=simple
-WorkingDirectory=/home/pi/vietbot
-ExecStart=/bin/bash -lc '. bot.sh'
-RestartSec=1
-Restart=on-failure
-StandardOutput=syslog
-StandardError=syslog
-SyslogIdentifier=vietbot
-[Install]
-WantedBy=multi-user.target
+[program:bot]
+directory=/home/pi/vietbot
+command=/bin/bash -c 'cd /home/pi/vietbot && python3 main_process.py'
+numprocs=1
+autostart=true
+autorestart=true
+user=pi
 ```
 Bấm Ctrl + X, Y, Enter
 
 Sau đó gõ tiếp các lệnh sau
 ```sh
-systemctl --user enable bot
-systemctl --user start bot
+sudo supervisorctl update
 ```
-Khởi động lại Pi và bot sẽ tự động chạy
+Chờ sau khi có thông báo update, khởi động lại Pi và bot sẽ tự động chạy (Chú ý thời gian chạy của bot sau khi khởi động)
