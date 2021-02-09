@@ -48,7 +48,6 @@ Bấm Ctrl + X, Y, Enter
 Sau đó gõ tiếp các lệnh sau
 ```sh
 systemctl --user enable bot
-systemctl --user enable bot
 systemctl --user start bot
 ```
 Khởi động lại Pi và bot sẽ tự động chạy
