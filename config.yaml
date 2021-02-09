@@ -1,0 +1,149 @@
+# STT 
+# 0: Dùng bàn phím, 1: Google STT, 2: Google Cloud STT; 3: VTCC STT, 4: VTCC Test 5: FPT STT
+stt_engine: 2
+#Thời gian timeout để chờ ra lệnh
+stt_timeout: 6000
+google_application_credentials: test.json
+stt_viettel_url: wss://vtcc.ai/voice/api/asr/v1/ws/decode_online
+#TTS
+google_api: AIzaSyDnn90kud3VyTPnwsn5Lu-LYqKRNVU6BCY
+
+#Playsound
+#0: Pygame.mixer, 1: Pydub
+
+# 0: No TTS, 1: Google TTS, 2: Google Cloud TTS, 3: VTCC TTS, 4: Zalo TTS,5: FPT TTS, 
+tts_engine: 2
+# Tham số cho TTS Viettel
+viettel_token: SythBY7N8AUnddbzfUk15aBx45uFDAebU7twsjBFqq-jxLrWpxlyXxzdWRNwYE8N
+# 'nu_mien_bac_01': 'hn-quynhanh', 'nu_mien_bac_02': 'trinhthiviettrinh', 'nam_mien_bac_01': 'hn-thanhtung', 'nam_mien_bac_02': 'phamtienquan', 'nu_mien_trung_01': 'hue-maingoc', 'nam_mien_trung_01': 'hue-baoquoc', 'nu_mien_nam_01': 'hcm-diemmy', 'nu_mien_nam_02': 'lethiyen', 'nu_mien_nam_03': 'nguyenthithuyduyen', 'nu_mien_nam_04': 'hcm-diemmy2', 'nam_mien_nam_01': 'hcm-minhquan'}
+tts_viettel_voice_name: hcm-diemmy2
+tts_viettel_speed: 1
+# Tham số cho TTS FPT
+fpt_api: 7591A4mt9hBzp8kGIHxAG98PXNkyEqEC
+# 'nam_mien_bac_01': 'leminh', 'nu_mien_bac_01': 'banmai','nu_mien_bac_02': 'thuminh', 'nam_mien_trung_01': 'gia_huy','nu_mien_trung_01': 'myan', 'nu_mien_nam_01': 'lannhi','nu_mien_nam_02': 'linhsan'
+tts_fpt_voice_name: linhsan
+tts_fpt_speed: 1
+# Tham số cho TTS Zalo
+zalo_api: 8sJJ39o7qhfS00FoRUUSIlkmBXC2fRGU
+tts_zalo_voice_id: 1
+tts_zalo_speed: 1
+#Volume: From 0.0 to 1
+volume: 1.0
+#Led Control Respeaker
+#No Respeaker:0, #Respeaker 2 Mic Hat/Respeaker 4 Mic Array : 1, Respeaker USB Mic Array 2.0: 2, RespeakerCoreV2: 3
+re_speaker: 2
+#Led Respeaker for Pi
+led_do: 15
+led_xanh: 14
+
+api_darksky: c457d056f60c2aa93fd47339aad294da
+toado: 
+- 21.0278
+- 105.8342
+#Use Hass
+# 0: No Use, 1: Use
+use_hass: 0
+#Hass input
+#Văn phòng
+hass_url: http://192.168.86.3:8123
+hass_token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyYTNhZWZkODIxYzc0ZDk3YTk3ZDVkNTY4MDMyZTczNCIsImlhdCI6MTYwODExNjUzNSwiZXhwIjoxOTIzNDc2NTM1fQ.a7BTdZVydhvtzMoKeqDlKswli0SmEVPOwiiEG72GTJw
+#Nhà
+# domain: http://192.168.1.9:8123
+# longlived-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhYmYwZTY4NTk0NzA0M2RkOTJjMTI5ZmI0YmIwNmRjMCIsImlhdCI6MTYxMTIwNDMyMCwiZXhwIjoxOTI2NTY0MzIwfQ.00U-Z821dG3VOiIOqWqxBKIAGKFkauN7ARRJ4o5xWP0
+
+# 0: User Broker, 1: Broker
+
+use_broker: 0
+broker_address: 192.168.1.112
+broker_port: 1883
+broker_username: udooer
+broker_password: udooer 
+
+camera_ip: 192.168.1.13
+camera_username: admin
+camera_passowrd: 1Qaz@123
+
+# Wakeup_Engine
+wakeup_engine: 1
+# 1: PicoVoice, 2: Snowboy
+#PicoVoice
+keywords:
+ - terminator
+ - bumblebee
+ - blueberry
+ - americano
+ - picovoice
+ - porcupine
+ - grapefruit
+ - grasshopper
+sensitivities:
+ - 0.3
+ - 0.3
+ - 0.3
+ - 0.3
+ - 0.3
+ - 0.3 
+ - 0.3 
+ - 0.3 
+ - 0.3 
+keyword_paths:
+ - computer_raspberry-pi.ppn 
+ - ok google_raspberry-pi.ppn
+ - jarvis_raspberry-pi.ppn
+ - alexa_raspberry-pi.ppn
+ - hey siri_raspberry-pi.ppn
+ - americano_raspberry-pi.ppn
+ - blueberry_raspberry-pi.ppn
+ - terminator_raspberry-pi.ppn
+ - bumblebee_raspberry-pi.ppn
+#Snowboy
+# hotword: computer
+model:
+- computer.umdl
+- snowboy.umdl
+
+sensitivity:
+- 0.6
+
+reminder: 0
+
+stand_alone: 0
+
+
+#Tốc độ nháy đèn
+
+led_do: 15
+led_xanh: 14
+
+
+
+voice: bot
+
+#Tin tức
+
+news_source_1_link: https://dantri.com.vn/trangchu.rss 
+news_source_1_name: Dân Trí
+news_source_2_link: https://vnexpress.net/rss/tin-moi-nhat.rss
+news_source_2_name: VnExpress
+news_source_3_link: http://www.tinhte.vn/rss​
+news_source_3_name: Tinh Tế
+news_source_4_link: https://thanhnien.vn/rss/home.rss
+news_source_4_name: Thanh Niên
+
+#Camera Configuration
+camera_ip: http://192.168.0.7
+username: admin
+pass: 79861719@hiK
+
+#Music Source: 0: Không dùng, 1: Youtube, 2: Spotify
+music_source: 1
+
+# Ai có spotify premium thì cho thành 1 và nhập user, (client ID và client secret thì lấy trong dev, nhớ thêm cái return url là http://localhost:9999/ vào nhé, cái này tương tự như add spotify vào Homeassistant, nên xem hướng dẫn ở đó nhé.
+# spotify: 0
+# spotify_username: evii4f9ae7pgmswhtjj5nm84r
+# spotify_client_id: 0e67ffbab4d446389551b5f9752f1045
+# spotify_client_secret: 973dd723e8d044f68e410eb8de29dced
+
+#Other Answer
+# 1: Google, 2: SimSim
+use_external_answer: 1

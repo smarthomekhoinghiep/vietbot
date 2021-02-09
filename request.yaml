@@ -1,0 +1,345 @@
+request_on:    
+- MỞ
+- BẬT            
+- NỐI                
+- KÍCH HOẠT                
+- THỰC HIỆN                        
+- THI HÀNH
+request_all:    
+- TẤT CẢ
+- HẾT
+- TOÀN BỘ
+request_off:    
+- ĐÓNG
+- TẮT    
+- TẤC    
+- NGẮT    
+- VÔ HIỆU            
+- HỦY BỎ                    
+request_adjust:
+- TĂNG
+- GIẢM
+request_check:
+- KIỂM TRA   
+- HIỂN THỊ
+- TRẠNG THÁI
+- THÔNG TIN    
+# - BẬT HAY TẮT    
+# - TẮT HAY BẬT  
+# - ĐÓNG HAY MỞ    
+# - MỞ HAY ĐÓNG
+request_setup:
+- THIẾT LẬP
+- CÀI ĐẶT    
+request_speedtest:
+- TỐC ĐỘ ĐƯỜNG TRUYỀN
+- CHẤT LƯỢNG ĐƯỜNG TRUYỀN    
+request_schedule:
+- HẸN GIỜ
+- ĐẶT GIỜ        
+request_input:
+- NHẬP VÀO
+- ĐIỀN VÀO            
+- CHỌN MỤC                
+- ĐẦU VÀO        
+- MỤC NHẬP        
+request_light:
+- ĐÈN
+- BÓNG ĐIỆN         
+- ĐÈN ĐIỆN
+request_switch:
+- CÔNG TẮC
+request_socket:
+- Ổ CẮM    
+- Ổ ĐIỆN    
+request_fan:
+- QUẠT    
+request_curtain:
+- RÈM        
+- MÀNH            
+- MÀN            
+request_television:
+- TIVI        
+- VÔ TUYẾN            
+request_temperature:
+- NHIỆT ĐỘ
+- MÚC NHIỆT
+request_humidity:
+- ĐỘ ẨM    
+- MỨC ẨM
+request_script:
+- KỊCH BẢN    
+- CHUỖI HÀNH ĐỘNG    
+request_automation:
+- TỰ ĐỘNG HÓA        
+request_scene:
+- NGỮ CẢNH    
+request_action_schedule:
+- NGAY        
+- LÚC                
+- SAU                    
+- LẬP TỨC            
+request_hour_schedule:
+- MỘT GIỜ        
+- HAI GIỜ            
+- BA GIỜ                
+- BỐN GIỜ                    
+- NĂM GIỜ                        
+- SÁU GIỜ                            
+- BẨY GIỜ                            
+- TÁM GIỜ                                
+- CHÍN GIỜ                                    
+- MƯỜI MỘT GIỜ                                        
+- MƯỜI HAI GIỜ                                            
+request_minutue_schedule:
+- NĂM PHÚT                
+- MƯỜI PHÚT
+- MƯỜI NĂM PHÚT                
+- HAI MƯƠI NĂM PHÚT   
+- BA MƯƠI PHÚT       
+- BA MƯƠI NĂM PHÚT           
+- BỐN MƯƠI PHÚT               
+- BỐN MƯƠI NĂM PHÚT                   
+- NĂM MƯƠI PHÚT                           
+- NĂM MƯƠI NĂM PHÚT                       
+request_random_number:    
+- SỐ NGẪU NHIÊN
+- SỐ BẤT KỲ
+- SỐ TỰ CHỌN
+request_greeting:    
+- XIN CHÀO
+- CHÀO EM
+- EM ƠI
+- EM À
+- NÀY EM                        
+request_health:    
+- EM KHỎE
+- EM THẾ NÀO    
+- EM RA SAO    
+- EM ỔN     
+- KHỎE KHÔNG EM
+- ỔN KHÔNG EM 
+request_weather:
+- THỜI TIẾT
+- KHÍ HẬU
+- MƯA BÃO
+- NẮNG GIÓ   
+request_exchange_rate:    
+- TỶ GIÁ
+request_exchange_rate_type:
+- USD 
+- EUR
+- GPB
+- JPY
+request_gold_rate:    
+- GIÁ VÀNG
+request_gold_rate_area:    
+- HÀ NỘI
+- ĐÀ NẴNG
+- HỒ CHÍ MINH
+request_time:
+- MẤY GIỜ
+- GIỜ LÚC NÀY
+- LÚC NÀY
+request_day:
+- QUA
+- NAY
+- MAI
+- KIA   
+request_name_day:
+- THỨ MẤY
+request_news:
+- TIN TỨC   
+- THÔNG TIN
+- THỜI SỰ
+- TÌNH HÌNH
+request_news_name:
+- DÂN TRÍ   
+- LAO ĐỘNG
+- VIỆT NAM NET
+- THANH NIÊN
+request_news_link:
+- https://dantri.com.vn/trangchu.rss 
+- https://laodong.vn/rss/home.rss
+- https://vietnamnet.vn/rss/thoi-su-chinh-tri.rss
+- https://thanhnien.vn/rss/home.rss
+
+
+request_animal_sound:
+- CON DẾ MÈN   
+- CON CHÓ
+- CON RẮN
+- CON LỢN
+- CON ONG
+- CON NHẶNG
+- CON MÈO
+- CON VE SẦU
+- CON BÒ
+- CON RUỒI
+- CON VỊT
+- CON NGỰA
+- CON CHIM
+- CON CHUỘT
+- CON CÚ MÈO
+- CON BẠCH TUỘC
+- CON CHUỒN CHUỒN
+- CON TÒ VÒ
+- CON CHIM GÕ KIẾN
+
+
+request_camera:
+- CAM
+- CAMERA               
+request_lunar_calendar:
+- NGÀY ÂM
+- LỊCH ÂM
+- MỒNG MẤY
+- MÙNG MẤY
+request_camera:
+- ĐIỀU KHIỂN CAMERA
+- ĐIỀU KHIỂN CAM   
+- QUẢN LÝ CAMERA
+- QUẢN LÝ CAM
+request_movement:
+- LÊN
+- XUỐNG
+- TRÁI
+- PHẢI  
+request_holiday:
+- CÒN BAO LÂU NỮA ĐẾN
+- BAO NHIÊU NGÀY NỮA ĐẾN
+- CÒN BAO NGÀY NỮA ĐẾN
+request_holiday_name:
+- TẾT DƯƠNG LỊCH
+- TẾT TÂY
+- TẾT NGUYÊN ĐÁN
+- TẾT ÂM 
+- GIỖ TỔ
+- GIỖ VUA HÙNG
+- BA MƯƠI THÁNG TƯ
+- TẾT LAO ĐỘNG
+- MỘT THÁNG NĂM
+- HAI THÁNG CHÍN
+- TẾT ĐỘC LẬP
+- QUỐC KHÁNH
+- TRUNG THU
+- TẾT THIẾU NHI
+request_lottery:
+- XỔ SỐ
+- KẾT QUẢ XỔ SỐ
+- GIẢI THƯỞNG XỔ SỐ
+request_lottery_area:
+- MIỀN NAM
+- MIỀN TRUNG
+- MIỀN BẮC
+- AN GIANG
+- BÌNH DƯƠNG
+- BÌNH ĐỊNH
+- BẠC LIÊU
+- BÌNH PHƯỚC
+- BẾN TRE
+- BÌNH THUẬN
+- CÀ MAU
+- CẦN THƠ
+- ĐẮC LẮC
+- ĐỒNG NAI
+- ĐÀ NẴNG
+- ĐẮC NÔNG
+- ĐỒNG THÁP
+- GIA LAI
+- THÀNH PHỐ HỒ CHÍ MINH
+- HẬU GIAN
+- KIÊN GIANG
+- KHÁNH HÒA
+- KON TUM
+- LONG AN
+- LÂM ĐỒNG
+- NINH THUẬN
+- PHÚ YÊN
+- QUẢNG BÌNH
+- QUẢNG NGÃI
+- QUẢNG NAM
+- QUẢNG TRỊ
+- SÓC TRĂNG
+- TIỀN GIANG
+- TÂY NINH
+- HUẾ
+- TRÀ VINH
+- VĨNH LONG
+- VŨNG TÀU
+request_translate_word:
+- CÓ NGHĨA 
+- NGHĨA LÀ
+- DỊCH LÀ
+request_translate_sentense:
+- DỊCH CÂU
+- CHUYỂN CÂU
+request_funny_story:
+- TRUYỆN CƯỜI
+- KỂ TRUYỆN
+- ĐỌC TRUYỆN
+- TÌM TRUYỆN
+request_lottery_link:
+- https://xskt.com.vn/rss-feed/mien-nam-xsmn.rss
+- https://xskt.com.vn/rss-feed/mien-trung-xsmt.rss
+- https://xskt.com.vn/rss-feed/mien-bac-xsmb.rss
+- https://xskt.com.vn/rss-feed/an-giang-xsag.rss
+- https://xskt.com.vn/rss-feed/binh-duong-xsbd.rss
+- https://xskt.com.vn/rss-feed/binh-dinh-xsbdi.rss
+- https://xskt.com.vn/rss-feed/bac-lieu-xsbl.rss
+- https://xskt.com.vn/rss-feed/binh-phuoc-xsbp.rss
+- https://xskt.com.vn/rss-feed/ben-tre-xsbt.rss
+- https://xskt.com.vn/rss-feed/binh-thuan-xsbth.rss
+- https://xskt.com.vn/rss-feed/ca-mau-xscm.rss
+- https://xskt.com.vn/rss-feed/can-tho-xsct.rss
+- https://xskt.com.vn/rss-feed/dac-lac-xsdlk.rss
+- https://xskt.com.vn/rss-feed/dong-nai-xsdn.rss
+- https://xskt.com.vn/rss-feed/da-nang-xsdng.rss
+- https://xskt.com.vn/rss-feed/dac-nong-xsdno.rss
+- https://xskt.com.vn/rss-feed/dong-thap-xsdt.rss
+- https://xskt.com.vn/rss-feed/gia-lai-xsgl.rss
+- https://xskt.com.vn/rss-feed/tp-hcm-xshcm.rss
+- https://xskt.com.vn/rss-feed/hau-giang-xshg.rss
+- https://xskt.com.vn/rss-feed/kien-giang-xskg.rss
+- https://xskt.com.vn/rss-feed/khanh-hoa-xskh.rss
+- https://xskt.com.vn/rss-feed/kon-tum-xskt.rss
+- https://xskt.com.vn/rss-feed/long-an-xsla.rss
+- https://xskt.com.vn/rss-feed/lam-dong-xsld.rss
+- https://xskt.com.vn/rss-feed/ninh-thuan-xsnt.rss
+- https://xskt.com.vn/rss-feed/phu-yen-xspy.rss
+- https://xskt.com.vn/rss-feed/quang-binh-xsqb.rss
+- https://xskt.com.vn/rss-feed/quang-ngai-xsqng.rss
+- https://xskt.com.vn/rss-feed/quang-nam-xsqnm.rss
+- https://xskt.com.vn/rss-feed/quang-tri-xsqt.rss
+- https://xskt.com.vn/rss-feed/soc-trang-xsst.rss
+- https://xskt.com.vn/rss-feed/tien-giang-xstg.rss
+- https://xskt.com.vn/rss-feed/tay-ninh-xstn.rss
+- https://xskt.com.vn/rss-feed/thua-thien-hue-xstth.rss
+- https://xskt.com.vn/rss-feed/tra-vinh-xstv.rss
+- https://xskt.com.vn/rss-feed/vinh-long-xsvl.rss
+- https://xskt.com.vn/rss-feed/vung-tau-xsvt.rss
+request_music:
+- PHÁT BÀI   
+- PHÁT NHẠC
+- CHƠI NHẠC
+request_music_source:
+- YOUTUBE   
+- SPOTIFY
+request_pause:
+- DỪNG
+request_continue:
+- TIẾP TỤC
+request_reply:
+- PHÁT LẠI
+request_exit:
+- EXIT
+- THOÁT
+
+request_wikipedia:
+- WIKI
+- WIKIPEDIA
+
+request_wikipedia_thing:
+- CÁI GÌ
+- LÀ AI
+- NHƯ THẾ NÀO
